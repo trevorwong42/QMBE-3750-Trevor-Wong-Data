@@ -123,4 +123,7 @@ WHERE Therapies.TherapyCode = Session.TherapyCode
 #Tripuides: both TripID and GuideNum 
 
 
+#Graded HW. Please merge pull request. 
+
+
 
