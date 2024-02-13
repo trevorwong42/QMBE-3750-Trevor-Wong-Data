@@ -51,3 +51,5 @@ WHERE city = 'Palm Rivers' OR city = 'WaterVille' OR city = 'Munster';
 SELECT TherapyCode
 FROM therapies
 WHERE description LIKE '%training%';
+
+#Good job Trevor, this is good. 
